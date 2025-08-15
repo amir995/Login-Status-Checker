@@ -1,0 +1,6 @@
+selenium
+selenium-wire
+webdriver-manager
+undetected-chromedriver
+blinker==1.5
+django
